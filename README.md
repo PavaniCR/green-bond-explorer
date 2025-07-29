@@ -57,7 +57,7 @@
 - Download filtered data as CSV
 - Bar chart: Issuance by country
 - Pie chart: Share by bond type
-- Line chart: Issuance trends over years
+- Line chart: Issuance trends over the years
 - Choropleth map: Global issuance visualization
 - Responsive warning/info messages for users
 
@@ -67,18 +67,5 @@
 
 This project was created to provide an accessible, open-source tool for exploring sustainable finance data. It demonstrates hands-on data analytics, visualization, and web deployment skills relevant to the financial sector.
 
-If you have suggestions or want to contribute, feel free to open an issue or pull request!
 
----
 
-## 👩‍💻 Author
-
-**Pavani C R**  
-MBA (Finance), M.S. Decision Analytics (Financial Analytics) at VCU  
-[LinkedIn](https://www.linkedin.com/in/pavanicr/)
-
----
-
-## 📄 License
-
-This project is for academic and learning purposes. Data copyright belongs to original providers.
